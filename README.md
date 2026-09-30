@@ -29,7 +29,7 @@
 > usando este comando se puede ver cuanta memoria consumen
 - 7.-Sal con exit. ¿Qué les ha pasado? Repite el comando anterior: ¿qué ves ahora y por qué?
 > ![img_9.png](Capturas/img_9.png)
-> Sali y me sali con status "EXITED" y cuando uso el comando anterior no me aparece nada 
+> Sali y me sali con status "EXITED" y cuando uso el comando anterior no me aparece nada porque deteni los 2 alp con exit
 - 8.-¿Cuánto disco has ocupado? Distingue imágenes de contenedores.
 > ![img_10.png](Capturas/img_10.png)
 > 
