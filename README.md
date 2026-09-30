@@ -27,4 +27,5 @@
 > Sali y me sali con status "EXITED" y cuando uso el comando anterior no me aparece nada 
 - 8.-¿Cuánto disco has ocupado? Distingue imágenes de contenedores.
 > ![img_10.png](Capturas/img_10.png)
+> 
 > solo me ocupo esto
